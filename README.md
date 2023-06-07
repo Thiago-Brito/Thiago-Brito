@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋
+My name is Thiago Brito. I'm a Computer Science student at Universidade Federal Rural de Pernambuco (UFRPE).
 
-<!--
-**Thiago-Brito/Thiago-Brito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  height="30" width="40" alt="nodejs logo"  />
+</div>
+<br/>
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats-psi-bice-95.vercel.app/api/top-langs/?username=Thiago-Brito&layout=compact&theme=tokyonight)](https://github.com/Thiago-Brito/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## <div> 
+  <a href = "mailto:thiago.britomfb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiago-brito-1b7a82242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div
