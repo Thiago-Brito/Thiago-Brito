@@ -10,7 +10,6 @@ My name is Thiago Brito. I'm a Computer Science student at Universidade Federal 
 </div>
 <br/>
 
-[![Top Langs](https://github-readme-stats-psi-bice-95.vercel.app/api/top-langs/?username=Thiago-Brito&layout=compact&theme=tokyonight)](https://github.com/Thiago-Brito/github-readme-stats)
 
   ## <div> 
   <a href="mailto:thiago.britomfb@gmail.com" target="_blank">
