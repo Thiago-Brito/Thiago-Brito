@@ -11,7 +11,7 @@ My name is Thiago Brito. I'm a Computer Science student at Universidade Federal 
 <br/>
 
 
-  ## <div> 
+ 
   <a href="mailto:thiago.britomfb@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -19,5 +19,4 @@ My name is Thiago Brito. I'm a Computer Science student at Universidade Federal 
 <a href="https://www.linkedin.com/in/thiago-brito-1b7a82242/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-  
-</div
+
